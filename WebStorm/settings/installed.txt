@@ -1,5 +1,0 @@
-mobi.hsz.idea.gitignore
-net.nicoulaj.idea.markdown
-com.vladsch.idea.multimarkdown
-org.intellij.plugins.markdown
-ro.redeul.google.go
