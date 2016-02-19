@@ -1,0 +1,35 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
+        </profile>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="js.eslint.nodeInterpreter" value="/usr/local/bin/node" />
+        <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
